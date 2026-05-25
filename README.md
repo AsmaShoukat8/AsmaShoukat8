@@ -3,19 +3,19 @@ I am **Asma Shoukat**, currently pursuing my Bachelor's in Software Engineering.
 
 I love to code, edit videos (doing it for 5+ years!), and create content. 
 
-### 🚀 Projects
+### Projects
 I have developed a few projects available in my repositories. My most recent contribution is:
 * **[Accessify Web Application](https://github.com/MariamAzeem/Accessify)** - Co-Developer
 
-### 🛠️ Tools & Tech
+### Tools & Tech
 * **Languages & Web:** Java, HTML, CSS, C++
 * **Version Control:** Git, GitHub
 * **Design & Editing:** Canva, Alight Motion
 
-### ⚡ Fun Facts About Me
-1. 🎬 I have been video editing since my childhood.
-2. 🎨 I love to draw.
-3. 🏸 My favorite sport is badminton.
+### Fun Facts About Me
+1.  I have been video editing since my childhood.
+2.  I love to draw.
+3.  My favorite sport is badminton.
 
 <!--
 **AsmaShoukat8/AsmaShoukat8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
