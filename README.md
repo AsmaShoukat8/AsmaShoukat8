@@ -1,5 +1,15 @@
 ## Hi there 👋
+I am Asma Shoukat, currently doing my bachelors in software engineering
 
+I love to code,Video editing(been doing it for almost 5+ years) and Content creation.
+
+I Have developed few projects and they are available in my repositories. The most recent one I Have contributed to is [Accessify Web Application]()
+
+
+Funfacts about me
+1.I have been video editing since my childhood
+2.I love to draw
+3.My favourite sports is badminton. 
 <!--
 **AsmaShoukat8/AsmaShoukat8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
